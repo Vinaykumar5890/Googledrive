@@ -124,7 +124,7 @@ function Home() {
                 <FaComputer className="FaComputer" /> Computers
               </li>
               <li>
-                <IoIosContacts className="FaComputer" /> Shared with me
+                <IoIosContacts className="FaComputer" /> Shared 
               </li>
               <li>
                 <IoMdTime className="FaComputer" /> Recent
